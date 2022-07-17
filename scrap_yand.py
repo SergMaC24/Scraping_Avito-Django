@@ -20,7 +20,8 @@ def items_data():
 
     while True:
         for item in range(offset, offset + b_size, 60):
-            url = f'https://inventories.cs.money/5.0/load_bots_inventory/730?buyBonus=35&isStore=true&limit=60&maxPrice=2000&minPrice=500&offset={item}&sort=botFirst&type=5&type=3&withStack=true'
+            url = item
+            print(url)
             offset += b_size
 
 
