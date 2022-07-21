@@ -1,2 +1,2 @@
-# Scraping_Avito-Django
-Scraping_Avito- Toyota C-HR / Django
+# Scraping_csmaney-Django
+Scraping / Django
